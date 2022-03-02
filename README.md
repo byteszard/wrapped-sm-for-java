@@ -34,4 +34,4 @@ cargo build --release
 
 ## 🔋 Relative Projects
 
-* [`Jasm`](https://github.com/bytesboy/jasm.git)
+* [`Private Repo: JaSM`](https://github.com/bytesboy/jasm.git): Examples about how to call `yarism` with java.
